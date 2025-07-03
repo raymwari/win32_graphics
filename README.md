@@ -15,8 +15,8 @@ https://www.godevtool.com  <br>
 ### Error codes (check stderr):
 https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-
 
-## Demo
+## Demo:
 Export golink and nasm : <br>
 
-https://github.com/user-attachments/assets/8f789e3d-9869-4a3b-8005-6db8e056bed1
+https://github.com/user-attachments/assets/48a18b2a-f13a-46df-be66-d5ca2733ee27
 
