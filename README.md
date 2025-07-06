@@ -1,5 +1,5 @@
 # win32_api_graphics
-A win 32 api graphics boiler plate code example in *86 assembler
+A win 32 api graphics demo in *86 assembler
 
 ## Links:
 
