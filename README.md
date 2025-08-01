@@ -11,8 +11,7 @@ https://www.quora.com/Can-I-make-a-window-using-an-assembly-code <br>
 https://www.nasm.us <br>
 https://www.godevtool.com  <br>
 
-## More:
-### Error codes (check stderr):
+## Error codes (check stderr):
 https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-
 
 ## Demo:
